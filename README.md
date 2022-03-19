@@ -1,1 +1,1 @@
-# data_structures
+# Exercises proposed for interviews
